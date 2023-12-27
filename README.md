@@ -27,3 +27,6 @@ This project is a Singapore Resale Flat Price Prediction application developed u
 
    ```bash
    git clone https://github.com/iamsandeeprSand/Singapore-Resale-Flat-Prices-Predicting
+
+## Power BI Dashboard
+![image](https://github.com/iamsandeeprSand/Singapore-Resale-Flat-Prices-Predicting/assets/139530620/779abf1f-67d5-4244-b5ca-235d9dc01ace)
